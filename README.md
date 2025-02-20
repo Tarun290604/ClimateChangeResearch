@@ -7,7 +7,6 @@ ClimateChangeResearch is a project focused on analyzing climate data specific to
 ## Table of Contents
 
 - [Project Structure](#project-structure)
-- [Dataset](#dataset)
 - [Models Implemented](#models-implemented)
 - [Contact](#contact)
 
@@ -21,16 +20,6 @@ The repository contains the following key files:
 - `LSTM&BILSTM.ipynb`: Implementation of Long Short-Term Memory (LSTM) and Bidirectional LSTM models.
 - `GRU.ipynb`: Implementation of Gated Recurrent Unit (GRU) model.
 - `Transformer.ipynb`: Implementation of Transformer model for time series forecasting.
-
-## Dataset
-
-The dataset `Bangalore_1990_2022_BangaloreCity.csv` comprises climate-related metrics recorded in Bangalore over three decades. Key attributes include:
-
-- **Date**: Timestamp of the recorded data.
-- **Temperature**: Daily average temperature.
-- **Precipitation**: Daily rainfall measurements.
-- **Humidity**: Daily average humidity levels.
-- **Wind Speed**: Daily average wind speed.
 
 ## Models Implemented
 
